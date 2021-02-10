@@ -1,0 +1,13 @@
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.exe
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.deps.json
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.runtimeconfig.json
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.runtimeconfig.dev.json
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.dll
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\bin\Debug\netcoreapp3.1\StringSort.pdb
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.csprojAssemblyReference.cache
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.AssemblyInfoInputs.cache
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.AssemblyInfo.cs
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.csproj.CoreCompileInputs.cache
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.dll
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.pdb
+C:\Users\Niren Patel\Desktop\Ozow\StringSort\obj\Debug\netcoreapp3.1\StringSort.genruntimeconfig.cache
